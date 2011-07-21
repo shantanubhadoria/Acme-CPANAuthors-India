@@ -36,7 +36,6 @@ use Acme::CPANAuthors::Register (
     HAGGAI        => 'Alan Haggai Alavi',
     HARPREET      => 'Harpreet Saini',
     HUGHES        => 'Manish Saxena',
-    JMAHESH       => 'Mahesh Joshi',
     JNAGRA        => 'Jasvir Nagra',
     KARTHIKK      => 'Karthik Krishnamurthy',
     KARTHIKU      => 'Karthik Umashankar',
