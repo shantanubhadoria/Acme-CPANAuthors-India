@@ -82,7 +82,6 @@ use Acme::CPANAuthors::Register (
     VIPUL         => 'Vipul Ved Prakash',
 );
 
-
 =head1 SYNOPSIS
 
 We are the Indian CPAN Authors. Coming from that big peninsula in the center of Asia, the original Indians. The ones columbus was looking for. :)
