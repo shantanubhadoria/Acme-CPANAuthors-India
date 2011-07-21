@@ -124,7 +124,6 @@ You can find documentation for this module with the perldoc command.
 
     perldoc Acme::CPANAuthors::India
 
-
 You can also look for information at:
 
 =over 4
