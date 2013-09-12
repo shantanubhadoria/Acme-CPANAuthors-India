@@ -58,9 +58,19 @@ L<https://github.com/shantanubhadoria/acme-cpanauthors-india>
 
 Shantanu Bhadoria <shantanu at cpan dott org>
 
-=head1 CONTRIBUTOR
+=head1 CONTRIBUTORS
+
+=over 4
+
+=item *
+
+Shantanu <shantanu@cpan.org>
+
+=item *
 
 Shantanu Bhadoria <shantanu.bhadoria@gmail.com>
+
+=back
 
 =head1 COPYRIGHT AND LICENSE
 
