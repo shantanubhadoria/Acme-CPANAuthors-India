@@ -1,0 +1,71 @@
+=pod
+
+=head1 NAME
+
+Acme::CPANAuthors::India - We are the Indian CPAN Authors. Coming from that big peninsula in the center of Asia, the original Indians. The ones columbus was looking for. :)
+
+=head1 VERSION
+
+version 0.07
+
+=head1 SYNOPSIS
+
+     use Acme::CPANAuthors;
+ 
+     my $authors  = Acme::CPANAuthors->new("India");
+ 
+     my $number   = $authors->count;
+     my @ids      = $authors->id;
+     my @distros  = $authors->distributions("SHANTANU");
+     my $url      = $authors->avatar_url("SHANTANU");
+     my $kwalitee = $authors->kwalitee("SHANTANU");
+     my $name     = $authors->name("SHANTANU");
+     ...
+
+=head1 DESCRIPTION
+
+This Module provides a List of all Indian CPAN Authors Listed. 
+
+=head1 NOTES
+
+  * If you are a Indian CPAN author not listed here, please send your ID/name via email or a pull request on github so I can keep this module up to date. 
+  * If you are not a Indian CPAN author but still on the list here, please send me your ID/name via email or submit a pull request on github and I will remove your name.
+
+=head1 SEE ALSO
+
+  * [Acme::CPANAuthors::Register]
+
+=for :stopwords cpan testmatrix url annocpan anno bugtracker rt cpants kwalitee diff irc mailto metadata placeholders metacpan
+
+=head1 SUPPORT
+
+=head2 Bugs / Feature Requests
+
+Please report any bugs or feature requests through github at 
+L<https://github.com/shantanubhadoria/acme-cpanauthors-india/issues>.
+You will be notified automatically of any progress on your issue.
+
+=head2 Source Code
+
+This is open source software.  The code repository is available for
+public review and contribution under the terms of the license.
+
+L<https://github.com/shantanubhadoria/acme-cpanauthors-india>
+
+  git clone git://github.com/shantanubhadoria/acme-cpanauthors-india.git
+
+=head1 AUTHOR
+
+Shantanu Bhadoria <shantanu at cpan dott org>
+
+=head1 CONTRIBUTOR
+
+Shantanu Bhadoria <shantanu.bhadoria@gmail.com>
+
+=head1 COPYRIGHT AND LICENSE
+
+This software is copyright (c) 2013 by Shantanu Bhadoria.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
