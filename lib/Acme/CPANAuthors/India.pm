@@ -38,6 +38,7 @@ use Acme::CPANAuthors::Register (
     HARPREET      => 'Harpreet Saini',
     HUGHES        => 'Manish Saxena',
     JNAGRA        => 'Jasvir Nagra',
+    KANISHKA      => 'Anwesh Reddy',
     KARTHIKK      => 'Karthik Krishnamurthy',
     KARTHIKU      => 'Karthik Umashankar',
     KCHAITAN      => 'A.Krishna Chaitanya',
