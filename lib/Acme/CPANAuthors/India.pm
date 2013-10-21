@@ -76,6 +76,7 @@ use Acme::CPANAuthors::Register (
     SIDD          => 'Siddhartha Basu',
     SID           => 'Siddharth Patwardhan',
     SHANTANU      => 'Shantanu Bhadoria',
+    SWEETKID      => 'Upasana Shukla',
     TSINGH        => 'Singh T. Junior',
     UARUN         => 'Arun Kumar U',
     VIKAS         => 'Vikas Naresh Kumar',
